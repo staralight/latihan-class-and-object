@@ -1,0 +1,7 @@
+C:\Users\Ananda\OneDrive\Documents\KULIAH\semester2\pemrograman\latihan\LatihanClassAndObject\LatihanClassAndObject\bin\Debug\LatihanClassAndObject.exe.config
+C:\Users\Ananda\OneDrive\Documents\KULIAH\semester2\pemrograman\latihan\LatihanClassAndObject\LatihanClassAndObject\bin\Debug\LatihanClassAndObject.exe
+C:\Users\Ananda\OneDrive\Documents\KULIAH\semester2\pemrograman\latihan\LatihanClassAndObject\LatihanClassAndObject\bin\Debug\LatihanClassAndObject.pdb
+C:\Users\Ananda\OneDrive\Documents\KULIAH\semester2\pemrograman\latihan\LatihanClassAndObject\LatihanClassAndObject\obj\Debug\LatihanClassAndObject.csprojAssemblyReference.cache
+C:\Users\Ananda\OneDrive\Documents\KULIAH\semester2\pemrograman\latihan\LatihanClassAndObject\LatihanClassAndObject\obj\Debug\LatihanClassAndObject.csproj.CoreCompileInputs.cache
+C:\Users\Ananda\OneDrive\Documents\KULIAH\semester2\pemrograman\latihan\LatihanClassAndObject\LatihanClassAndObject\obj\Debug\LatihanClassAndObject.exe
+C:\Users\Ananda\OneDrive\Documents\KULIAH\semester2\pemrograman\latihan\LatihanClassAndObject\LatihanClassAndObject\obj\Debug\LatihanClassAndObject.pdb
